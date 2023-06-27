@@ -17,4 +17,5 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 Краткое описание решения и выводы: https://elza56.atlassian.net/wiki/spaces/~617bbb62f485cd0068dde8af/pages/edit-v2/393217 (Логин barda123@mail.ru/пароль 7srJ8Y6VH8C4UN2)
 
 Контатктная информация:
+
 email: barda123@mail.ru
