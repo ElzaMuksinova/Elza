@@ -12,6 +12,8 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 2. подготовить тестовую документацию,
 3. провести тестирование,
 4. написать отчет о результатах тестирования.
+
+   
 Краткое описание решения и выводы: https://elza56.atlassian.net/wiki/spaces/~617bbb62f485cd0068dde8af/pages/edit-v2/393217 (Логин barda123@mail.ru/пароль 7srJ8Y6VH8C4UN2)
 
 Контатктная информация:
