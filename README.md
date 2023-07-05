@@ -18,8 +18,11 @@ SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
 
    
 # Краткое описание решения и выводы: 
-
+План тестирования:
 https://docs.google.com/document/d/1IoeIff0ItBsn9m4Io_Mt9y97Ze99sbmCb1kHpASnpRA/edit?usp=sharing
+
+Отчет о тестировании:
+https://docs.google.com/document/d/1GEcBbEzm52-F3W8NTcgltZXT8E7B5gQ6/edit?usp=sharing&ouid=108283369856701778350&rtpof=true&sd=true
  
 
 Контатктная информация:
